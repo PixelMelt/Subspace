@@ -16,7 +16,7 @@ This mod is not affiliated with Neuronality, the developers of starblast.io. Use
 
 ### Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser.
 
-### Install the script from [here](./code/s.user.js).
+### Install the script from [here](https://drm.pixelmelt.dev/s.user.js)
 
 ## Features
 
