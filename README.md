@@ -51,10 +51,10 @@ Need refresh to take effect.
 - Epic Gamer Mode - Adds silly sound effects.
 - Anti AFK - Prevent being kicked for inactivity.
 - Survival Timer - Display a timer for the time until sudden death begins in survival mode.
-- Remove Gold - Hide the golden hue overlay in survival mode
-- Snag Indicator - Show indicators when gems are snagged by teammates
-- Self Ship Tag - Highlight your own ship icon on the radar
-- Anon Mode - Hide your username and ship ID from other players
+- Remove Gold - Remove the hard to see gold skin from the game
+- Snag Indicator - Show where the map wraps around on the radar
+- Self Ship Tag - Display your health underneath your ship
+- Anon Mode - Hide your username and premium badge from other players
 
 ### Buttons
 Can be used during a game.
@@ -62,7 +62,7 @@ Can be used during a game.
 - Export Ships - Export all ship models in your current game.
 - Force Admin - Promote yourself to admin status in some dueling mods.
 - Emote cycler - Cycle through different emotes.
-- Ecp check - Display status of all control points   
+- Ecp check - Display status of all premium users in your game.   
 - Change Music - Change the default game music to an mp3/youtube video of your choice.
 
 ### Other
